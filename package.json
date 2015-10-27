@@ -1,0 +1,25 @@
+{
+  "name": "fast-route",
+  "version": "0.0.0",
+  "description": "Fast url matcher",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkt/fast-route.git"
+  },
+  "author": "Nikita Gusakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkt/fast-route/issues"
+  },
+  "homepage": "https://github.com/nkt/fast-route#readme",
+  "devDependencies": {
+    "chai": "3.4.0",
+    "eslint": "1.7.3",
+    "istanbul": "0.4.0",
+    "mocha": "2.3.3"
+  }
+}
